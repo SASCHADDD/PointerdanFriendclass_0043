@@ -19,4 +19,3 @@ int main()
     delete mhs;
     return 0;
 }
-
